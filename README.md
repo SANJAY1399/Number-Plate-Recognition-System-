@@ -1,4 +1,4 @@
-# Number Plate RecognitionSystem Using openCV and python 
+
 
 Real Time Number Plate Recognition System is an image processing technology
 which uses number (license) plate to identify the vehicle. 
